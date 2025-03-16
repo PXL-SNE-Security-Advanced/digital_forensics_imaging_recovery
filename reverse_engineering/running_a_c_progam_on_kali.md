@@ -1,4 +1,4 @@
-# Running a C Program on Kali Linux from the Command Line
+# Compiling and running C Code on Kali Linux from the Command Line
 
 ## 1. Install GCC (If Not Installed)
 
