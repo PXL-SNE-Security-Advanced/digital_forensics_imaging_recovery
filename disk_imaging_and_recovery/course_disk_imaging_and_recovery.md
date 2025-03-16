@@ -2,7 +2,13 @@
 
 ## references
 
-- [Course](https://github.com/PXL-SNE-Security-Advanced/digital_forensics_ir.git)
+- [Kali Linux](https://www.kali.org/)
+- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
+- [dcfldd](https://dcfldd.sourceforge.io/)
+- [foremost](https://tools.kali.org/forensics/foremost)
+- [photorec](https://www.cgsecurity.org/wiki/PhotoRec)
+
+---
 
 ## **Objective**  
 
