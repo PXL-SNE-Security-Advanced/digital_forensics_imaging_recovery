@@ -7,6 +7,7 @@
 - [dcfldd](https://dcfldd.sourceforge.io/)
 - [foremost](https://tools.kali.org/forensics/foremost)
 - [photorec](https://www.cgsecurity.org/wiki/PhotoRec)
+- [Intro Course File Recovery](https://hogeschoolpxl-my.sharepoint.com/:p:/g/personal/20004162_pxl_be/EbtRqHwo2w5OqLucC4owbaYBnWQAooZDL-eqWSVBMlYqcg?e=92zlHu)
 
 ## **Objective**  
 
