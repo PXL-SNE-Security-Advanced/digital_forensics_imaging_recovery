@@ -2,13 +2,7 @@
 
 ## references
 
-- [Kali Linux](https://www.kali.org/)
-- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
-- [dcfldd](https://dcfldd.sourceforge.io/)
-- [foremost](https://tools.kali.org/forensics/foremost)
-- [photorec](https://www.cgsecurity.org/wiki/PhotoRec)
-
----
+- [Course](https://github.com/PXL-SNE-Security-Advanced/digital_forensics_ir.git)
 
 ## **Objective**  
 
@@ -429,19 +423,6 @@ mkdir recovery_output_photorec
    - **A recovery directory**
 
 3. Check the output folder for the recovered image.
-
----
-
-### **Assessment Criteria**
-
-| Criteria                         | Points |
-|----------------------------------|--------|
-| Successfully added and formatted disk | 10     |
-| Copied and deleted the file        | 10     |
-| Created a valid forensic image     | 20     |
-| Verified integrity of the image    | 10     |
-| Recovered the deleted file         | 20     |
-| Report and screenshots provided    | 30     |
 
 ---
 
