@@ -242,7 +242,7 @@ To mount a forensic disk image (`forensic_image.dd`) in **read-only** mode while
     Check the partition table of the image:
 
     ```bash
-    mmls -ab forensic_image.dd                                
+    mmls -aB forensic_image.dd                                
     ```
 
     ```output
