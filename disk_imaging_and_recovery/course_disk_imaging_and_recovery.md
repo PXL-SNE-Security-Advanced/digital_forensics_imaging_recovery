@@ -208,7 +208,7 @@ sudo apt-get install dcfldd -y
 2. Verify the integrity:
 
    ```bash
-   d5sum /dev/sdb > source_hash.txt
+   md5sum /dev/sdb > source_hash.txt
    md5sum forensic_image.dd > image_hash.txt
    cat source_hash.txt image_hash.txt
    ```
