@@ -1,3 +1,3 @@
-# Digital Forensics and Incident Response (DFIR) and Reverse Engineering
+# Digital Forensics Imaging & File Recovery
 
 - [Disk Imaging and Recovery](disk_imaging_and_recovery/course_disk_imaging_and_recovery.md)
