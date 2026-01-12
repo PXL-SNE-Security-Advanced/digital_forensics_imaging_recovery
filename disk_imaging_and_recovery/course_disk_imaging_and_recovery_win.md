@@ -211,21 +211,10 @@ Answer the following:
 
 1. Why was `mypicture.jpg` recoverable after deletion?
 2. Why was `pxl.jpg` not recoverable after secure deletion?
-3. Did `mypicture.jpg` retain its original filename? Why or why not?
-4. Why must recovered files be saved to a different drive?
-5. How would SSDs and TRIM affect this experiment?
-
----
-
-## **Deliverables**
-
-Submit:
-
-* Screenshot of Disk Management showing the created volume
-* Screenshot of `F:\LabFiles` before deletion
-* Screenshot of Recuva scan results
-* Screenshot of recovered `mypicture.jpg`
-* Answers to analysis questions
+3. What is het difference between `del` and `shift+del` in Windows? Can files be recovered in both cases?
+4. Did `mypicture.jpg` retain its original filename? Why or why not?
+5. Why must recovered files be saved to a different drive?
+6. How would SSDs and TRIM affect this experiment?
 
 ---
 
