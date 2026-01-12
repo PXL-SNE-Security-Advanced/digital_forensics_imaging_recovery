@@ -22,7 +22,8 @@ After completing this lab, students will be able to:
 * Perform normal deletion vs secure deletion
 * Attempt file recovery using **Recuva**
 * Explain why some files are recoverable and others are not
-
+* Make a forensic copy of a disk with FTK Imager and recover files from the image with autopsy
+  
 ---
 
 ## **Requirements**
@@ -205,7 +206,38 @@ Color indicators:
 
 ---
 
-## **Part 6: DFIR Analysis Questions**
+## **Part 6: Forensic Disk Imaging with FTK Imager**
+
+### Step 1 — Create a forensic image
+
+1. Open **FTK Imager**
+2. Go to **File → Create Disk Image**
+3. Select **Physical Drive** and choose the disk containing `DFIR_LAB`
+4. Click **Next**
+5. Select **Image Destination** as **E01** format
+6. Choose a destination folder on another drive
+7. Click **Finish** to create the image
+8. Wait for the imaging process to complete
+9. Close FTK Imager
+
+### Step 2 — Analyze the forensic image with Autopsy
+
+1. Open **Autopsy**
+2. Create a new case
+3. Add the E01 image created in FTK Imager as a data source
+4. Start the analysis
+5. Navigate to the file system of the image
+6. Look for `mypicture.jpg` and `pxl.jpg` in the `DFIR_LAB` folder
+7. Attempt to recover both files using Autopsy's file recovery features
+8. Verify the integrity of the recovered files
+9. Document your findings
+10. Close Autopsy
+11. Delete the case if desired to free up space
+12. Remove the E01 image from your system if no longer needed
+
+---
+
+## **Part 7: DFIR Analysis Questions**
 
 Answer the following:
 
