@@ -1,4 +1,4 @@
-# **Assignment: Disk Imaging and File Recovery in Kali Linux**
+# **Lab: Disk Imaging and File Recovery in Kali Linux**
 
 ## references
 
